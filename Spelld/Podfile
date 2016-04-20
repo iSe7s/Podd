@@ -3,16 +3,16 @@
 # Uncomment this line if you're using Swift
 # use_frameworks!
 
-target 'ProjectWithPods' do
+target 'Spelld' do
 pod 'AFNetworking'
 pod 'SDWebImage'
 end
 
-target 'ProjectWithPodsTests' do
+target 'Spelld' do
 
 end
 
-target 'ProjectWithPodsUITests' do
+target 'Spelld' do
 
 end
 
